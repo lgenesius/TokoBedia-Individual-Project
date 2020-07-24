@@ -1,4 +1,4 @@
-# TokoBedia Website - School Project
+# TokoBedia Website
 This is my school project in Pattern Software Design(or Domain Driven Design) Laboratory Subjects. This is an individual project.<br>
 This project is about E-Commerce Website.
 
@@ -18,5 +18,5 @@ Second Image :
 
 ## Technologies
 ▸ C#<br>
-▸ Framework: ASP.NET<br>
-▸ IDE: Visual Studio 2015<br>
+▸ ASP.NET<br>
+▸ Visual Studio 2015<br>
