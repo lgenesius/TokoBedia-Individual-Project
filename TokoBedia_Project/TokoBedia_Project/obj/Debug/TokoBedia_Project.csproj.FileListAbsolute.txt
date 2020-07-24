@@ -1,0 +1,111 @@
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\ApplicationInsights.config
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\csc.exe
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\vbc.exe
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\VBCSCompiler.exe
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.dll.config
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.pdb
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Web.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.ApplicationInsights.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Web.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.ApplicationInsights.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.csprojResolveAssemblyReference.cache
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.pdb
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.SqlServer.dll
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.xml
+D:\PSD LAB\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.SqlServer.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\ApplicationInsights.config
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\csc.exe
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\vbc.exe
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\VBCSCompiler.exe
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.dll.config
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.pdb
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.SqlServer.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Web.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.ApplicationInsights.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.SqlServer.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Web.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.ApplicationInsights.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\github\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.csprojResolveAssemblyReference.cache
+D:\github\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.dll
+D:\github\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.pdb
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\ApplicationInsights.config
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\csc.exe
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\vbc.exe
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\VBCSCompiler.exe
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.dll.config
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\TokoBedia_Project.pdb
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.SqlServer.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Web.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.ApplicationInsights.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\EntityFramework.SqlServer.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.Web.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.ApplicationInsights.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.csprojResolveAssemblyReference.cache
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.dll
+D:\TokoBedia Individual Project\TokoBedia_Project\TokoBedia_Project\obj\Debug\TokoBedia_Project.pdb
