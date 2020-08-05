@@ -1,5 +1,5 @@
 # TokoBedia Website
-This is my school project in Pattern Software Design(or Domain Driven Design) Laboratory Subjects. This is an individual project.<br>
+This is my school project in Pattern Software Design(or Domain Driven Design) Laboratory Subjects(COMP6114). This is an individual project.<br>
 This project is about E-Commerce Website.
 
 ## Description
